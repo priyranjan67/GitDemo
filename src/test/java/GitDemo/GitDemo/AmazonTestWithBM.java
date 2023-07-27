@@ -30,7 +30,7 @@ public class AmazonTestWithBM {
 		Assert.assertEquals(title, "Amazon.com");
 	}
 	
-	public void 
+	
 	@Test
 	public void teardown() {
 		
